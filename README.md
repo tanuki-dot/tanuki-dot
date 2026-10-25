@@ -6,8 +6,6 @@
 
 Student and hardware maker, happiest close to the metal: firmware, embedded, networks, and Linux I've taken apart more times than is reasonable. Everything here is self-driven. If it has an SPI flash or a config file I can ruin at 2am, I'm interested.
 
-<sub>she/her</sub>
-
 ---
 
 ### What I do
