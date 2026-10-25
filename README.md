@@ -1,51 +1,61 @@
+<!--
+  Create a public repo named EXACTLY your username (e.g. "luki/luki"), drop this in as README.md,
+  replace every USERNAME, fill the links. Theme: gruvbox (keep it the same across all cards).
+-->
 
+![header](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=FABD2F&center=false&width=640&lines=firmware+tinkerer+%26+embedded+maker;libreboot+survivor%2C+SPI-flash+whisperer;low-level+recovery%2C+networks%2C+soldering+iron)
 
-### Hi, I'm Tanuki
+### Hi, I'm Luki
 
-Student and hardware maker. I spend most of my time close to the metal: low-level firmware, embedded systems, networks, and Linux that I've taken apart and put back together more times than is strictly reasonable. Currently weighing up where to point all this next, machine learning or embedded engineering.
+Student and hardware maker, happiest close to the metal: firmware, embedded, networks, and Linux I've taken apart more times than is reasonable. Everything here is self-driven. If it has an SPI flash or a config file I can ruin at 2am, I'm interested.
 
-If it has an SPI flash, a serial console, or a config file I can ruin at 2am, I'm probably interested.
-
-<!-- Pronouns line is optional. Keep or delete. -->
 <sub>she/her</sub>
 
 ---
 
-### What I actually do
+### What I do
 
-- **Firmware and boot**: Libreboot / coreboot, Intel ME neutralization, SPI flashing (internal and external rescue).
-- **Networks and security**: nftables, VLAN segmentation, threat modeling, a home lab with a honeypot.
-- **Embedded**: ESP32, Arduino, the Raspberry Pi family, soldering, 3D printing.
-- **Linux**: Void, systems administration, and an unhealthy amount of ricing.
+- **Firmware / boot**: Libreboot / coreboot, Intel ME neutralization, SPI flashing, Qualcomm EDL
+- **Security / networks**: firewalld / nftables, VLAN segmentation, MAC randomization, incident analysis, home-lab honeypot
+- **Embedded**: ESP32, Arduino, Raspberry Pi, soldering, 3D printing
+- **Linux**: Void & Debian, LUKS, sysadmin, and too much ricing
 
 ---
 
-### Tech I reach for
+### Tech
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Void](https://img.shields.io/badge/Void_Linux-478061?style=flat&logo=linux&logoColor=white)
+![Void](https://img.shields.io/badge/Void-478061?style=flat&logo=linux&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RPi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
-![coreboot](https://img.shields.io/badge/coreboot%20%2F%20Libreboot-1A1A1A?style=flat&logo=linux&logoColor=white)
 
 ---
 
-### Featured
+### Selected work
 
-**Libreboot on the ThinkPad T60** &nbsp;|&nbsp; a complete install and rescue guide, including the SPI bus contention trap that cost me an evening.
+<sub>Self-driven. Repos and writeups in progress; happy to walk through any of these.</sub>
 
-https://github.com/tanuki-dot/raspberry-bay
-
-Other things I'm poking at: an ESP32-C6 pocket MP3/Opus player, a Raspberry Pi hidden inside a ThinkPad UltraBay, and a wearable status display.
-
+- **Libreboot on a ThinkPad T60** — internal bucts flash, then external SPI rescue over a Pi Pico after root-causing an ICH7M bus-contention failure.
+- **Qualcomm EDL recovery (Xiaomi POCO M3)** — forced EDL via testpoints, flashed the boot chain with a firehose programmer; traced the remaining failure to a dying UFS chip.
+- **Discord token-stealer incident** — analyzed a real infection end to end; showed how a stolen session token bypasses 2FA, then rotated, invalidated and cleaned up.
+- **Monolith microSD recovery** — worked from kernel logs down to decapping the card; ruled it unrecoverable at the controller level.
+- **Debian network hardening** — firewalld DROP zone, SSH vector removed, per-network MAC randomization.
+- **Earlier builds** — microcontroller temp/humidity monitor; older laptop revived with SSD, RAM, Linux and LUKS.
 
 ---
 
+### Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=gruvbox" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=gruvbox" alt="top languages" />
+</p>
+
+--
 
 ![profile views](https://komarev.com/ghpvc/?username=USERNAME&color=fabd2f&style=flat&label=profile+views)
 
