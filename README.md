@@ -1,11 +1,8 @@
-<!--
-  Create a public repo named EXACTLY your username (e.g. "luki/luki"), drop this in as README.md,
-  replace every USERNAME, fill the links. Theme: gruvbox (keep it the same across all cards).
--->
+
 
 ![header](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=FABD2F&center=false&width=640&lines=firmware+tinkerer+%26+embedded+maker;libreboot+survivor%2C+SPI-flash+whisperer;low-level+recovery%2C+networks%2C+soldering+iron)
 
-### Hi, I'm Luki
+### Hi, I'm Tanuki
 
 Student and hardware maker, happiest close to the metal: firmware, embedded, networks, and Linux I've taken apart more times than is reasonable. Everything here is self-driven. If it has an SPI flash or a config file I can ruin at 2am, I'm interested.
 
@@ -39,12 +36,12 @@ Student and hardware maker, happiest close to the metal: firmware, embedded, net
 
 <sub>Self-driven. Repos and writeups in progress; happy to walk through any of these.</sub>
 
-- **Libreboot on a ThinkPad T60** — internal bucts flash, then external SPI rescue over a Pi Pico after root-causing an ICH7M bus-contention failure.
+- **Libreboot on a ThinkPad T60** internal bucts flash, then external SPI rescue over a Pi Pico after root-causing an ICH7M bus-contention failure.
 - **Qualcomm EDL recovery (Xiaomi POCO M3)** — forced EDL via testpoints, flashed the boot chain with a firehose programmer; traced the remaining failure to a dying UFS chip.
-- **Discord token-stealer incident** — analyzed a real infection end to end; showed how a stolen session token bypasses 2FA, then rotated, invalidated and cleaned up.
-- **Monolith microSD recovery** — worked from kernel logs down to decapping the card; ruled it unrecoverable at the controller level.
-- **Debian network hardening** — firewalld DROP zone, SSH vector removed, per-network MAC randomization.
-- **Earlier builds** — microcontroller temp/humidity monitor; older laptop revived with SSD, RAM, Linux and LUKS.
+- **Discord token-stealer incident** analyzed a real infection end to end; showed how a stolen session token bypasses 2FA, then rotated, invalidated and cleaned up.
+- **Monolith microSD recovery** worked from kernel logs down to decapping the card; ruled it unrecoverable at the controller level.
+- **Debian network hardening** firewalld DROP zone, SSH vector removed, per-network MAC randomization.
+- **Earlier builds** microcontroller temp/humidity monitor; older laptop revived with SSD, RAM, Linux and LUKS.
 
 
 ![profile views](https://komarev.com/ghpvc/?username=tanuki-dot&color=fabd2f&style=flat&label=profile+views)
