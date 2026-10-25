@@ -43,24 +43,6 @@ https://github.com/tanuki-dot/raspberry-bay
 
 Other things I'm poking at: an ESP32-C6 pocket MP3/Opus player, a Raspberry Pi hidden inside a ThinkPad UltraBay, and a wearable status display.
 
----
-
-### Stats
-
-<!-- Both cards use the gruvbox theme and a hidden border so they sit cleanly side by side. -->
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=gruvbox" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=gruvbox" alt="top languages" />
-</p>
-
-
-### Elsewhere
-
-<!-- Fill in or delete lines. Drop the ones you don't use rather than leaving them blank. -->
-- Website / blog: `https://...`
-- Mastodon / Matrix: `@you@instance`
-- Email: `you@example.com`
-- PGP: `0xDEADBEEF`
 
 ---
 
