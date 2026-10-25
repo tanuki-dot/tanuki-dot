@@ -46,17 +46,7 @@ Student and hardware maker, happiest close to the metal: firmware, embedded, net
 - **Debian network hardening** — firewalld DROP zone, SSH vector removed, per-network MAC randomization.
 - **Earlier builds** — microcontroller temp/humidity monitor; older laptop revived with SSD, RAM, Linux and LUKS.
 
----
 
-### Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=gruvbox" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=gruvbox" alt="top languages" />
-</p>
-
---
-
-![profile views](https://komarev.com/ghpvc/?username=USERNAME&color=fabd2f&style=flat&label=profile+views)
+![profile views](https://komarev.com/ghpvc/?username=tanuki-dot&color=fabd2f&style=flat&label=profile+views)
 
 
