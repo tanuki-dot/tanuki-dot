@@ -46,7 +46,7 @@ Other things I'm poking at: an ESP32-C6 pocket MP3/Opus player, a Raspberry Pi h
 
 ---
 
-<!-- Profile views counter. Counts from the day you add it, not retroactively. -->
+
 ![profile views](https://komarev.com/ghpvc/?username=USERNAME&color=fabd2f&style=flat&label=profile+views)
 
-<sub>Most of these cards are rendered by third-party services (vercel.app, demolab.com, komarev.com), so each profile visit pings an outside server. github-readme-stats and several others can be self-hosted if you'd rather keep it in-house.</sub>
+
