@@ -1,6 +1,6 @@
 
 
-![header](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=FABD2F&center=false&width=640&lines=firmware+tinkerer+%26+embedded+maker;libreboot+survivor%2C+SPI-flash+whisperer;low-level+recovery%2C+networks%2C+soldering+iron)
+![header](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=FABD2F&center=false&width=640&lines=firmware+tinkerer+%26+embedded+maker;libreboot+survivor%2C+SPI-flash+whisperer;low-level+recovery%2C+networks%2C+soldering+dih:3)
 
 ### Hi, I'm Tanuki
 
