@@ -42,6 +42,6 @@ Student and hardware maker, happiest close to the metal: firmware, embedded, net
 - **Earlier builds**  microcontroller temp/humidity monitor; older laptop revived with SSD, RAM, Linux and LUKS.
 
 
-![profile views](https://komarev.com/ghpvc/?username=USERNAME&color=fabd2f&style=flat&label=profile+views)
+![profile views](https://komarev.com/ghpvc/?username=tanuki.dot&color=fabd2f&style=flat&label=profile+views)
 
 
